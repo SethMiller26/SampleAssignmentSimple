@@ -23,3 +23,4 @@ void drawOutlineOfLights() {
   ellipse(width/2, height/2, 50, 50); //middle
   ellipse(width/2, height/2 + 65, 50, 50); //bottom
 }
+REEEEEEEEEEEEEEEEEEEEE
